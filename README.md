@@ -22,7 +22,7 @@ public class Me {
     int age = 20;
     string country = "Morocco";
     string role = "FrontEnd Developer & Game Dev Enthusiast";
-    string team = "https://www.sakora.dev/";
+    string team = "https://www.mohamedelc.xyz/";
 }
 ```
   ### Tech Stack
